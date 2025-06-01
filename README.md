@@ -32,8 +32,6 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -56,7 +54,7 @@
 ## 🌐 Languages
 
 - **English** – Fluent  
-- **中文 (Chinese)** – Native / Professional Working Proficiency  
+- **中文 (Chinese)** – Professional Working Proficiency  
 
 ---
 
