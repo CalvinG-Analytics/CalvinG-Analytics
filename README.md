@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Calvin!
 
-🎓 PhD Statistician | Freelancer Data Analyst | AI Contributor |  R • SAS • SQL • Python • LaTeX • Linux • 中文
+🎓 PhD Statistician | Freelancer Data Analyst & AI Contributor | Programming Expert
 
 ---
 
 ## 📌 About Me
 - 👨‍🎓 Freelance Data Analyst with a PhD in Statistics 
 - 🧪 Strong background in statistical modeling, hypothesis testing, and data visualization
-- 🛠️ Tools of choice: R, SAS, Python, SQL, LaTeX, Bash
+- 🛠️ Tools of choice: R, SAS, SQL, Python, LaTeX, Linux
 - 🌍 Fluent in English and Chinese (中文)
 - 📫 Reach me at: [CatalyzeAnalytics@outlook.com] | [LinkedIn](https://www.linkedin.com/in/calvin-guan-9950a149/)
 
@@ -15,7 +15,7 @@
 
 ## 💼 Professional Highlights
 
-- 🎓 PhD in Statistics with 10+ years of experience in healthcare analytics, theoretical research, and college-level teaching
+- 🎓 PhD in Statistics with 10+ years of experience in healthcare analytics, theoretical research, and statistical programming
 - 🧪 Deep expertise in statistical modeling, hypothesis testing, and high-dimensional data analysis
 - 🏥 Led data curation and analysis on the Framingham Heart Study, Medicare & Medicaid, and other healthcare datasets
 - 🤖 Contributed to AI development at Mercor, Outlier, and Snorkel AI through high-rigor statistical problem creation
