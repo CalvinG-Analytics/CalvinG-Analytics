@@ -5,6 +5,7 @@
 ---
 
 ## 📌 About Me
+
 - 👨‍🎓 Freelance Data Analyst with a PhD in Statistics 
 - 🧪 Strong background in statistical modeling, hypothesis testing, and data visualization
 - 🛠️ Tools of choice: R, SAS, SQL, Python, LaTeX, Linux
@@ -38,14 +39,17 @@
 ## 📁 Featured Projects - TEMPLATE ONLY
 
 ### 📂 [Statistical Modeling in R](https://github.com/your-username/statistical-modeling-r)
+
 - Built regression and classification models using `tidymodels` and `caret`
 - Automated reports using RMarkdown and LaTeX
 
 ### 📊 [SAS Clinical Trial Analysis](https://github.com/your-username/sas-clinical-trial)
+
 - Processed and analyzed clinical trial data using PROC MEANS, PROC GLM, and macros
 - Generated summary tables and statistical reports
 
 ### 📉 [SQL-Based Data Insights Project](https://github.com/your-username/sql-analysis)
+
 - Queried and cleaned relational data
 - Performed cohort analysis and retention rate evaluation
 
