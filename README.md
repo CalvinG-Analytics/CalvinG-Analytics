@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Calvin!
+# 👋 Hi, I'm Calvin
 
 🎓 PhD Statistician | Freelancer Data Analyst & AI Contributor | Programming Expert
 
@@ -6,7 +6,7 @@
 
 ## 📌 About Me
 
-- 👨‍🎓 Freelance Data Analyst with a PhD in Statistics 
+- 👨‍🎓 Freelance Data Analyst with a PhD in Statistics
 - 🧪 Strong background in statistical modeling, hypothesis testing, and data visualization
 - 🛠️ Tools of choice: R, SAS, SQL, Python, LaTeX, Linux
 - 🌍 Fluent in English and Chinese (中文)
@@ -66,4 +66,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/calvin-guan-9950a149/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:CatalyzeAnalytics@outlook.com)
-
