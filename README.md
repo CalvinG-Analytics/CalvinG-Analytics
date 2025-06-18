@@ -35,6 +35,7 @@
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
+<!--
 ---
 
 ## 📁 Featured Projects - TEMPLATE ONLY
@@ -53,6 +54,8 @@
 
 - Queried and cleaned relational data
 - Performed cohort analysis and retention rate evaluation
+
+-->
 
 ---
 
